@@ -1,6 +1,5 @@
 ### About me
 
-<img align="right" width="33%" src="linked.png">
 
 Hi, I'm Abdullah Khan. I'm currently a final year student (Bachelor of Computer Applications).
 
